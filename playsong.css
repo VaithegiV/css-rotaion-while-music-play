@@ -120,7 +120,7 @@ nav .circle{
 
 @media screen and (min-width:300px) and (max-width:500px){
   .music-player{
-    width: 75%;
+    width: 90%;
     height: 75%;
   }
   .container{
